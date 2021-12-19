@@ -1,0 +1,23 @@
+{
+  "name": "certification-edit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://omegamputu: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@github.com/omegamputu/certification-edit.git"
+  },
+  "author": "Omega Mputu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omegamputu/certification-edit/issues"
+  },
+  "homepage": "https://github.com/omegamputu/certification-edit#readme",
+  "dependencies": {
+    "laravel-mix": "^6.0.39"
+  },
+  "devDependencies": {}
+}
