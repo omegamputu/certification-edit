@@ -9,7 +9,7 @@ require('bootstrap');
 import Vue from 'vue';
 
 // Components
-//Vue.component('example-component', require('./components/ExampleComponent.vue').default);
+Vue.component('certification-component', require('./components/CertificationsComponent.vue').default);
 
 const app = new Vue({
     el: '#app',
